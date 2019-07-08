@@ -13,5 +13,7 @@ aws configure --profile awsbot
 ## Running
 
 pipenv run python awsboto3.py list
+
 pipenv run python awsboto3.py start
+
 pipenv run python awsboto3.py stop
